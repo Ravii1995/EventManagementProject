@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.collabera.eventmanagement</groupId>
 	<artifactId>EventManagement</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1-Release</version>
 	<name>EventManagement</name>
 	<description>EventManagement Project</description>
 	<properties>
